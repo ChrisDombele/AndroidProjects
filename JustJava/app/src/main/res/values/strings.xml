@@ -1,0 +1,7 @@
+<resources>
+    <!--Name of app. It will be shown at the top of the screen. [CHAR LIMIT=NONE]-->
+    <!--char limit is good to set when giving to translator to translate.
+    lets them know how much real estate they have to work with.
+    for proper translations use the localization checklist in android dev site-->
+    <string name="app_name">Order Count</string>
+</resources>
