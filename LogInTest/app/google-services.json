@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "630080776356",
+    "firebase_url": "https://logintest-bdd75.firebaseio.com",
+    "project_id": "logintest-bdd75",
+    "storage_bucket": "logintest-bdd75.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:630080776356:android:500b969b97fbd767",
+        "android_client_info": {
+          "package_name": "com.example.android.logintest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "630080776356-0mhpq0i9n0nffj428sq9dd6h2684u30b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.logintest",
+            "certificate_hash": "06545a449c02a9931c64ac7e7153e4fc03e7efac"
+          }
+        },
+        {
+          "client_id": "630080776356-qdhq91rs1k3pvhk9mp8l3etha66blai2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfMi3WC6XylTY9Co-9DSnfJVMCuAXqDyA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "630080776356-qdhq91rs1k3pvhk9mp8l3etha66blai2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
