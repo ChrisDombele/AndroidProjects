@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Conversions</string>
+
+    <string-array name="conversion_field">
+        <item>Force</item>
+        <item>Length</item>
+        <item>Liquid</item>
+    </string-array>
+
+    <string-array name="units">
+        <item>N</item>
+        <item>lbsf</item>
+        <item>klps</item>
+    </string-array>
+
+</resources>
